@@ -1,6 +1,6 @@
 {
-   "Persons":[
-        
+    "Persons": [
+         
         {
         "ProfileID": "001",
         "ProfileURL": "11",
@@ -11,7 +11,6 @@
             "y2":0
         },
         {
-    
         "ProfileID": "002",
         "ProfileURL": "22",
             "isProtected": "",
@@ -20,6 +19,5 @@
             "x2":0,
             "y2":0
         }
-
-   ]
+    ]
 }
