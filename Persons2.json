@@ -4,7 +4,7 @@
         {
         "ProfileID": "001",
         "ProfileURL": "11",
-            "isProtected": "",
+            "isProtected": "Helmet",
             "x1":0,
             "y1":0,
             "x2":0,
@@ -13,7 +13,25 @@
         {
         "ProfileID": "002",
         "ProfileURL": "22",
-            "isProtected": "",
+            "isProtected": "West",
+            "x1":0,
+            "y1":0,
+            "x2":0,
+            "y2":0
+        },
+                {
+        "ProfileID": "003",
+        "ProfileURL": "11",
+            "isProtected": "HelmetWest",
+            "x1":0,
+            "y1":0,
+            "x2":0,
+            "y2":0
+        },
+                {
+        "ProfileID": "004",
+        "ProfileURL": "11",
+            "isProtected": "None",
             "x1":0,
             "y1":0,
             "x2":0,
