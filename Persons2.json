@@ -5,7 +5,7 @@
          
         {
         "ProfileID": "001",
-        "ProfileURL": "11",
+        "ProfileURL": "https://github.com/telomer/leap24/blob/main/D1.jpeg",
             "isProtected": "1",
             "x1":10,
             "y1":10,
@@ -17,7 +17,7 @@
         },
         {
         "ProfileID": "002",
-        "ProfileURL": "22",
+        "ProfileURL": "https://github.com/telomer/leap24/blob/main/D2.jpeg",
             "isProtected": "2",
             "x1":30,
             "y1":30,
@@ -29,7 +29,7 @@
         },
                 {
         "ProfileID": "003",
-        "ProfileURL": "11",
+        "ProfileURL": "https://github.com/telomer/leap24/blob/main/D3.jpeg",
             "isProtected": "3",
             "x1":50,
             "y1":50,
@@ -41,7 +41,7 @@
         },
                 {
         "ProfileID": "004",
-        "ProfileURL": "11",
+        "ProfileURL": "https://github.com/telomer/leap24/blob/main/D4.jpeg",
             "isProtected": "0",
             "x1":80,
             "y1":80,
@@ -53,7 +53,7 @@
         },
                 {
         "ProfileID": "005",
-        "ProfileURL": "133",
+        "ProfileURL": "https://github.com/telomer/leap24/blob/main/D5.jpeg",
             "isProtected": "0",
             "x1":110,
             "y1":110,
